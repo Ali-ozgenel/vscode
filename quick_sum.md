@@ -1,4 +1,3 @@
-doc:different points of quick sort kinds
 🧩 1️⃣ Lomuto Partition (En basit ama verimsiz olan)
 📘 Mantık:
 Pivot her zaman dizinin son elemanı (pivot = arr[ub])
